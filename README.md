@@ -5,9 +5,9 @@
 
 - 🔭 Currently working on [AniFetch](https://github.com/abhinavcodedev/7-day-Android-App-Challenge/tree/main/AniFetch)
 
-- 📝 I’m currently learning **Jetpack Compose, MVVM, Dependency Injections(Dagger,Hilt) and SOLID Principles**
+- 📝 I’m currently learning **Jetpack Compose, MVVM, Dependency Injections(Dagger,Hilt), Room Database and SOLID Principles**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1n7LXjpljl8MNuYGr-sxHmLQLXy2IoK8o/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17PIUPx2d4QZSioidjT7UHyzygp_22NPC/view?usp=drive_link)
 
 -  📫 Reach me on [Mail](abhir1805@gmail.com)
 
