@@ -7,8 +7,6 @@
 
 - 📝 I’m currently learning **Jetpack Compose, MVVM, Dependency Injections(Dagger,Hilt), Room Database and SOLID Principles**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17PIUPx2d4QZSioidjT7UHyzygp_22NPC/view?usp=drive_link)
-
 -  📫 Reach me on [Mail](abhir1805@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
