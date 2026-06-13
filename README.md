@@ -3,7 +3,7 @@
 <h3 align="center">Android Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavcodedev&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavcodedev" /> </p>
 
-- 🔭 Currently working on [AniFetch](https://github.com/abhinavcodedev/7-day-Android-App-Challenge/tree/main/AniFetch)
+- 🔭 Currently working on [DragonBallCharacter](https://github.com/abhinavcodedev/DragonBallCharacter)
 
 - 📝 I’m currently learning **Jetpack Compose, MVVM, Dependency Injections(Dagger,Hilt), Room Database and SOLID Principles**
 
